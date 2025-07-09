@@ -74,7 +74,7 @@ sporting-club-app/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/sporting-club-app.git
+   git clone https://github.com/Usifkhalid/sporting-club-app.git
    cd sporting-club-app
    ```
 
